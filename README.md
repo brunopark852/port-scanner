@@ -44,6 +44,5 @@ python3 scanner.py google.com -o resultado.json
 ⚠️ Disclaimer
 
 Esta ferramenta foi criada para fins de estudo e uso em redes autorizadas. O desenvolvedor não se responsabiliza pelo uso indevido.
-
 Dev: Bruno Rodrigo 💀
 python3 scanner.py
